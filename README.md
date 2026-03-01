@@ -14,13 +14,11 @@ Software Developer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
-
 </div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinabBChhetri&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinab2k05&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
 
 ---
 
