@@ -4,13 +4,10 @@
 
 # Abhinab B. Chhetri
 
-Developer · C++ · Python · FastAPI
-
+Software Developer 
 </div>
 
 ---
-
-
 **Stack**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -19,12 +16,22 @@ Developer · C++ · Python · FastAPI
 
 ---
 
-**Sensei** → [Sajid "Kakashi" Miya](https://github.com/miyasajid19)
+</div>
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinabBChhetri&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
+
+---
+
+**Mentor/Sensei** → [Sajid "Kakashi" Miya](https://github.com/miyasajid19)
 
 ---
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-your__username-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your_username)
+<a href="https://buymeacoffee.com/your_username">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" alt="Buy Me A Coffee" />
+</a>
 
 </div>
