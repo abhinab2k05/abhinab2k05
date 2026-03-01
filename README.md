@@ -10,14 +10,6 @@ Developer · C++ · Python · FastAPI
 
 ---
 
-```python
-name    = "Abhinab B. Chhetri"
-stack   = ["C++", "Python", "FastAPI"]
-mentor  = 'Sajid "Kakashi" Miya'   # github.com/miyasajid19
-os      = "Linux"
-```
-
----
 
 **Stack**
 
