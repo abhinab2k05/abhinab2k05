@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="72" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="32" />
 
 <h2>Abhinab B. Chhetri</h2>
 
-<p>Developer · C++ · Python · FastAPI</p>
+<p>Developer</p>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
