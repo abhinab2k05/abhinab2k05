@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="20" />
 
 # Abhinab B. Chhetri
-
 Software Developer 
 </div>
 
@@ -17,8 +16,9 @@ Software Developer
 </div>
 
 ---
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhinab2k05&hide_border=true&theme=default)](https://git.io/streak-stats)
-
+</div>
 ---
 
 **Mentor/Sensei** → [Sajid "Kakashi" Miya](https://github.com/miyasajid19)
